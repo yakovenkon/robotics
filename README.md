@@ -6,7 +6,7 @@ _https://github.com/Makeblock-official/Makeblock-Libraries_
  _www.makeblock.com_<br>
 3. The book _"mBot and Me"_<br>
 _http://static.education.makeblock.com/mbotandme.pdf_<br>
-4. _"Косаченко С.В. Программирование учебного робота mBot."_<br>
+4. Косаченко С.В. _Программирование учебного робота mBot._<br>
 _https://bit.ly/2JjLrFt_<br>
 5. Nicholas Hughes and Carlos Izsak._Teaching computing with mackeBlock._<br>
 _http://static.education.makeblock.com/computingwithmbot.pdf_<br>
@@ -25,7 +25,7 @@ _http://static.education.makeblock.com/computingwithmbot.pdf_<br>
 1.2) Завантажити необхідну бібліотеку.<br> 
 1.3) Вивчити функції руху роботів mBot. Вивчити класи руху _MeDCMotor_ та _MBotDCMotor_. <br>  
 1) Ознайомитись із середовищем розробки програм (mBlock, Arduino IDE)  для керування роботами mBot та mBot Ranger.<br>
-2) Посібник _"Косаченко С.В. Программирование учебного робота mBot."_<br>
+2) Косаченко С.В. _Программирование учебного робота mBot._<br>
 _https://bit.ly/2JjLrFt_<br>
 Опрацювати пункти 5, 6, 7, 8.
    
