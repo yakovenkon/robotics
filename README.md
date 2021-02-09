@@ -6,8 +6,11 @@ _https://github.com/Makeblock-official/Makeblock-Libraries_
  _www.makeblock.com_<br>
 3. The book _"mBot and Me"_<br>
 _http://static.education.makeblock.com/mbotandme.pdf_<br>
-4. The book _"Косаченко С.В. Программирование учебного робота mBot."_<br>
-_https://bit.ly/2JjLrFt_
+4. _"Косаченко С.В. Программирование учебного робота mBot."_<br>
+_https://bit.ly/2JjLrFt_<br>
+5. Nicholas Hughes and Carlos Izsak.Teaching computing with mackeBlock.<br>
+http://static.education.makeblock.com/computingwithmbot.pdf<br>
+
 
 **Лабораторна робота №1. ЗАВДАННЯ:** <br>
 1) Виконати тест за посиланням _[test1](https://forms.gle/NQk58Ak1iLmeTS4T8)_ <br>
