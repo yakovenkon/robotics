@@ -8,8 +8,8 @@ _https://github.com/Makeblock-official/Makeblock-Libraries_
 _http://static.education.makeblock.com/mbotandme.pdf_<br>
 4. _"Косаченко С.В. Программирование учебного робота mBot."_<br>
 _https://bit.ly/2JjLrFt_<br>
-5. Nicholas Hughes and Carlos Izsak.Teaching computing with mackeBlock.<br>
-http://static.education.makeblock.com/computingwithmbot.pdf<br>
+5. Nicholas Hughes and Carlos Izsak._Teaching computing with mackeBlock._<br>
+_http://static.education.makeblock.com/computingwithmbot.pdf_<br>
 
 
 **Лабораторна робота №1. ЗАВДАННЯ:** <br>
