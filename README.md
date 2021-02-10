@@ -17,7 +17,8 @@ _http://static.education.makeblock.com/computingwithmbot.pdf_<br>
 2) Використовуючи  матеріал лабораторної роботи №1(посилання _[lab1](https://drive.google.com/file/d/1DDo4P__R5uvb4EN29T-SuzoJVTE9Js1A/view?usp=sharing)_),<br>
 2.1) Вивчити загальну будову та призначення основних модулів робототехнічного набору mBot, mBot Ranger.<br> 
 2.2) Завантажити та встановити драйвери mLink - mBlock web version driver.<br>
-3) Після завантаження файлу _mLink2-V2.1.1.exe._ відкрити mLink та ознайомитись із середовищем графічного програмування mBlock розробки програм для керування роботами mBot та mBot Ranger.
+3) Після завантаження файлу _mLink2-V2.1.1.exe._ відкрити mLink та ознайомитись із середовищем графічного програмування mBlock розробки програм для керування роботами mBot та mBot Ranger.<br>
+4) **Для зарахування Лаб.№1 здати п. 2.1** <br>
    
 **Лабораторна робота №2. ЗАВДАННЯ:** <br>
 1) Використовуючи  матеріал лабораторної роботи (посилання _[lab2](https://drive.google.com/file/d/16JDTfeRxaqooAJZqhvLk6I6eHCwg43YS/view?usp=sharing_)),<br> 
@@ -27,6 +28,7 @@ _http://static.education.makeblock.com/computingwithmbot.pdf_<br>
 1) Ознайомитись із середовищем розробки програм (mBlock, Arduino IDE)  для керування роботами mBot та mBot Ranger.<br>
 2) Косаченко С.В. _Программирование учебного робота mBot._<br>
 _https://bit.ly/2JjLrFt_<br>
-Опрацювати пункти 5, 6, 7, 8.
+Опрацювати глави 5, 6, 7, 8.(ст. 18-36)<br>
+4) **Для зарахування Лаб.№2 здати пункт 2 (глава 8, ст.32, 34 (після натискання на бортову кнопку, mBot рухається по квадрату)** <br>
    
 
