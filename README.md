@@ -18,14 +18,13 @@ _https://bit.ly/2JjLrFt_<br>
 **Для зарахування Лаб.№1 здати п. 2.1** <br>
    
 **Лабораторна робота №2, 3. ЗАВДАННЯ:** <br>
-1) Використовуючи  матеріал лабораторної роботи (посилання _[lab2](https://drive.google.com/file/d/16JDTfeRxaqooAJZqhvLk6I6eHCwg43YS/view?usp=sharing_)_),<br> 
+1) Використовуючи  матеріал лабораторної роботи №2, 3 (посилання _[lab2](https://drive.google.com/file/d/16JDTfeRxaqooAJZqhvLk6I6eHCwg43YS/view?usp=sharing_)_),<br> 
 1.1) Встановити середовище розробки Arduino IDE.<br> 
 1.2) Завантажити необхідну бібліотеку.<br> 
 1.3) Вивчити функції руху роботів mBot. Вивчити класи руху _MeDCMotor_ та _MBotDCMotor_. <br>  
 2) Ознайомитись із середовищем розробки програм (mBlock, Arduino IDE).<br>
-3) Косаченко С.В. _Программирование учебного робота mBot._
-_https://bit.ly/2JjLrFt_<br>
-Опрацювати главу 5.(ст. 18, 19)<br>
-**Для зарахування Лаб.№2, 3 здати завдання 2 - 6 (посилання _[lab2](https://drive.google.com/file/d/16JDTfeRxaqooAJZqhvLk6I6eHCwg43YS/view?usp=sharing_))).** 
+3) Опрацювати главу 5.(ст. 18, 19) книги Косаченко С.В. _Программирование учебного робота mBot (посилання _
+_https://bit.ly/2JjLrFt)_<br>
+**Для зарахування Лаб.№2, 3 здати завдання 2 - 6 (посилання _[lab2](https://drive.google.com/file/d/16JDTfeRxaqooAJZqhvLk6I6eHCwg43YS/view?usp=sharing_)_).** 
    
 
