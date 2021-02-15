@@ -8,6 +8,7 @@ _https://github.com/Makeblock-official/Makeblock-Libraries_
 _http://static.education.makeblock.com/mbotandme.pdf_<br>
 4. Косаченко С.В. _Программирование учебного робота mBot._<br>
 _https://bit.ly/2JjLrFt_<br>
+5. http://learn.makeblock.com/en/Makeblock-library-for-Arduino/annotated.html<br>
 
 **Лабораторна робота №1. ЗАВДАННЯ:** <br>
 1) Виконати тест за посиланням _[test1](https://forms.gle/NQk58Ak1iLmeTS4T8)_ <br>
