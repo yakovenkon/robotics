@@ -26,6 +26,6 @@ _https://bit.ly/2JjLrFt_<br>
 2) Ознайомитись із середовищем розробки програм (mBlock, Arduino IDE).<br>
 3) Опрацювати главу 5 (ст. 18, 19) книги Косаченко С.В. _Программирование учебного робота mBot_ (посилання 
 _https://bit.ly/2JjLrFt)._<br>
-**Для зарахування Лаб.№2, 3 здати завдання 2 - 6 (посилання _[lab2](https://drive.google.com/file/d/16JDTfeRxaqooAJZqhvLk6I6eHCwg43YS/view?usp=sharing_)_).** 
+**Для зарахування Лаб.№2, 3 здати завдання 6 a), 6 б) (посилання _[lab2](https://drive.google.com/file/d/16JDTfeRxaqooAJZqhvLk6I6eHCwg43YS/view?usp=sharing_)_).** 
    
 
