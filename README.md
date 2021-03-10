@@ -35,7 +35,7 @@ _https://bit.ly/2JjLrFt)._<br>-->
 2.3. Лабораторна робота №4 (діаграма наслідування класів, клас MeRGBLed та його методи, команди включення та виключення ствітлодіодів в mBlock).<br>
 
 **Лабораторна робота №5. ЗАВДАННЯ:** <br>
-1. Лабораторна №5 (посилання _[lab5](https://drive.google.com/file/d/1YntQXqChkDakt87SQ30O4zf9QyJ55AtL/view?usp=sharing_).<br>
+1. Лабораторна №5 (посилання _[lab5](https://drive.google.com/file/d/1YntQXqChkDakt87SQ30O4zf9QyJ55AtL/view?usp=sharing_)_).<br>
    
    
 
