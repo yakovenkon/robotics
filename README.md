@@ -8,7 +8,7 @@ _https://github.com/Makeblock-official/Makeblock-Libraries_
 _http://static.education.makeblock.com/mbotandme.pdf_<br>
 4. Косаченко С.В. _Программирование учебного робота mBot._<br>
 _https://bit.ly/2JjLrFt_<br>
-5. http://learn.makeblock.com/en/Makeblock-library-for-Arduino/annotated.html<br>
+5. _http://learn.makeblock.com/en/Makeblock-library-for-Arduino/annotated.html_<br>
 
 **Лабораторна робота №1. ЗАВДАННЯ:** <br>
 1) Виконати тест за посиланням _[test1](https://forms.gle/NQk58Ak1iLmeTS4T8)_ <br>
@@ -35,7 +35,7 @@ _https://bit.ly/2JjLrFt)._<br>-->
 2.3. Лабораторна робота №4 (діаграма наслідування класів, клас MeRGBLed та його методи, команди включення та виключення ствітлодіодів в mBlock).<br>
 
 **Лабораторна робота №5. ЗАВДАННЯ:** <br>
-1. Написати програму слідкування робота за чорною лінією. Завантажити програму в mBot (Ranger)<br>
+1. Лабораторна №5 (посилання _[lab5](https://drive.google.com/file/d/1YntQXqChkDakt87SQ30O4zf9QyJ55AtL/view?usp=sharing_).<br>
    
    
 
