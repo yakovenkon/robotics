@@ -30,14 +30,15 @@ _Звіт повинен включати номер лаборатоної ро
 _https://bit.ly/2JjLrFt)._<br>-->
 **Для зарахування Лаб.№2, 3 здати завдання 6 a), 6 б) (посилання _[lab2,3](https://drive.google.com/file/d/16JDTfeRxaqooAJZqhvLk6I6eHCwg43YS/view?usp=sharing_)_).** <br><br>
 
+
 **Лабораторна робота №4. ЗАВДАННЯ:** <br>
 1. Виканати лабораторну роботу №4 (посилання _[lab4](https://drive.google.com/file/d/1Cxinm3dHcHUfuPbBiLs7ly4BDCcXMeNf/view?usp=sharing_)_).<br>
 2. Здати два письмові звіти (які включають ПІБ студента, номер лабораторної роботи, мету, текст звіту):<br>
 2.1. Лабораторна №2,3 (діаграма наслідування класів, класи MeDCMotor та MBotDCMotor та їх методи, опис pin-портів, команди руху)<br>
 2.3. Лабораторна робота №4 (діаграма наслідування класів, клас MeRGBLed та його методи, команди включення та виключення ствітлодіодів в mBlock).<br>
 
-**Лабораторна робота №5. ЗАВДАННЯ:** <br>
-1. Лабораторна №5 (посилання _[lab5, 6](https://drive.google.com/file/d/1YntQXqChkDakt87SQ30O4zf9QyJ55AtL/view?usp=sharing_)_).<br>
+**Лабораторна робота №5, 6. ЗАВДАННЯ:** <br>
+1. Виконати завдання №1 за посиланням ( _[lab5, 6](https://drive.google.com/file/d/1YntQXqChkDakt87SQ30O4zf9QyJ55AtL/view?usp=sharing_)_).<br>
    
    
 
