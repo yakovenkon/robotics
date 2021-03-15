@@ -8,7 +8,7 @@ _https://github.com/Makeblock-official/Makeblock-Libraries_
 _http://static.education.makeblock.com/mbotandme.pdf_<br>
 4. Косаченко С.В. _Программирование учебного робота mBot._<br>
 _https://bit.ly/2JjLrFt_<br>
-5. _http://learn.makeblock.com/en/Makeblock-library-for-Arduino/annotated.html_<br>
+5. _http://learn.makeblock.com/en/Makeblock-library-for-Arduino/annotated.html_<br><br>
 
 **Лабораторна робота №1. ЗАВДАННЯ:** <br>
 1) Виконати тест за посиланням _[test1](https://forms.gle/NQk58Ak1iLmeTS4T8)_ <br>
@@ -18,7 +18,7 @@ _Звіт повинен включати номер лаборатоної ро
 ПІБ студента, номер групи, мету роботи та опис звіту._**<br>
 2.2) Завантажити та встановити драйвери mLink - mBlock web version driver.<br>
 3) Після завантаження файлу _mLink2-V2.1.1.exe._ відкрити mLink та ознайомитись із середовищем графічного програмування mBlock розробки програм для керування роботами mBot та mBot Ranger.<br>
-**Для зарахування Лаб.№1 здати п. 2.1** <br>
+**Для зарахування Лаб.№1 здати п. 2.1** <br><br>
    
 **Лабораторна робота №2, 3. ЗАВДАННЯ:** <br>
 1) Використовуючи  матеріал лабораторної роботи №2, 3 (посилання _[lab2,3](https://drive.google.com/file/d/16JDTfeRxaqooAJZqhvLk6I6eHCwg43YS/view?usp=sharing_)_),<br> 
@@ -35,10 +35,13 @@ _https://bit.ly/2JjLrFt)._<br>-->
 1. Виканати лабораторну роботу №4 (посилання _[lab4](https://drive.google.com/file/d/1Cxinm3dHcHUfuPbBiLs7ly4BDCcXMeNf/view?usp=sharing_)_).<br>
 2. Здати два письмові звіти (які включають ПІБ студента, номер лабораторної роботи, мету, текст звіту):<br>
 2.1. Звіт "Лабораторна №2,3" (діаграма наслідування класів, класи MeDCMotor та MBotDCMotor та їх методи, опис pin-портів, команди руху)<br>
-2.3. Звіт "Лабораторна робота №4" (діаграма наслідування класів, клас MeRGBLed та його методи, команди включення та виключення ствітлодіодів в mBlock).<br>
+2.3. Звіт "Лабораторна робота №4" (діаграма наслідування класів, клас MeRGBLed та його методи, команди включення та виключення ствітлодіодів в mBlock).<br><br>
 
 **Лабораторна робота №5, 6. ЗАВДАННЯ:** <br>
-1. Виконати завдання №1 за посиланням ( _[lab5, 6](https://drive.google.com/file/d/1YntQXqChkDakt87SQ30O4zf9QyJ55AtL/view?usp=sharing_)_).<br>
+1. Виконати завдання №1 за посиланням ( _[lab5, 6](https://drive.google.com/file/d/1YntQXqChkDakt87SQ30O4zf9QyJ55AtL/view?usp=sharing_)_).<br><br>
+   
+ **Лабораторна робота №7, 8. ЗАВДАННЯ:** <br>
+ 1. Програмування робота mBot в Arduino IDE для керування за допомогою IR-пульту. 
    
    
 
