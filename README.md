@@ -38,10 +38,10 @@ _https://bit.ly/2JjLrFt)._<br>-->
 2.3. Звіт "Лабораторна робота №4" (діаграма наслідування класів, клас MeRGBLed та його методи, команди включення та виключення ствітлодіодів в mBlock).<br><br>
 
 **Лабораторна робота №5, 6. ЗАВДАННЯ:** <br>
-1. Виконати завдання №1 за посиланням ( _[lab5, 6](https://drive.google.com/file/d/1YntQXqChkDakt87SQ30O4zf9QyJ55AtL/view?usp=sharing_)_).<br><br>
+1. Виконати завдання №1 за посиланням  _[lab5, 6](https://drive.google.com/file/d/1YntQXqChkDakt87SQ30O4zf9QyJ55AtL/view?usp=sharing_)_.<br><br>
    
  **Лабораторна робота №7, 8. ЗАВДАННЯ:** <br>
- 1. Програмування робота mBot в Arduino IDE для керування за допомогою IR-пульту. 
+ 1. Програмування робота mBot в Arduino IDE для керування за допомогою IR-пульту за посиланням  _[lab7, 8](https://drive.google.com/file/d/18xWvjDx4C4_bjw_2w7MEUYCZsGbG-MN8/view?usp=sharing_)_.<br><br> 
    
    
 
